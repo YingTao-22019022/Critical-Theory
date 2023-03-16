@@ -10,38 +10,37 @@ Research on the application of cultural hybridization in game design and develop
 
 Inaccurate. Most of the search results are introducing the definition of video game culture, introducing what video game culture is. It's not relevant to the cultures and cultural hybrids that I'm looking for in games.
 
-![image-20230304165655309](C:\Users\52624\AppData\Roaming\Typora\typora-user-images\image-20230304165655309.png)
+![image-20230304165655309](https://user-images.githubusercontent.com/119857836/225484489-d4d797fc-a290-4f5e-9468-81c3b55001e8.png)
 
 [video game and cultural]
 
 It has been improved, and the searched content is roughly the same as the previous keyword, but there will be some information related to the culture reflected in the game.
 
-![image-20230304165627245](C:\Users\52624\AppData\Roaming\Typora\typora-user-images\image-20230304165627245.png)
+![image-20230304165627245](https://user-images.githubusercontent.com/119857836/225484560-afa3bab0-df7e-4aec-b10b-f52a43f86083.png)
 
 [Cultural hybridization in games] 
 
 basically related. The searched content is basically a description of the phenomenon of cultural integration in the game. The content of the article is roughly related to cultural hybridization and games.
 
-![image-20230304161805035](C:\Users\52624\AppData\Roaming\Typora\typora-user-images\image-20230304161805035.png)
+![image-20230304161805035](https://user-images.githubusercontent.com/119857836/225484615-8b928ad9-dbcc-4a3a-b580-15a38eca2f6d.png)
 
 in the UAL library [Cultural hybridization]
 
 I got very few search results, mostly related to cultural hybrids, but almost nothing related to games.
 
-![image-20230309003031648](C:\Users\52624\AppData\Roaming\Typora\typora-user-images\image-20230309003031648.png)
+![image-20230309003031648](https://user-images.githubusercontent.com/119857836/225484652-ac5f3926-b051-4168-929c-a192c72113a7.png)
 
 change keywords[games culture]
 
 There are more search results, and you can see some articles related to games and culture, but you can still use the conditional search on the left for further filtering.
 
-![image-20230309003517864](C:\Users\52624\AppData\Roaming\Typora\typora-user-images\image-20230309003517864.png)
+![image-20230309003517864](https://user-images.githubusercontent.com/119857836/225484680-63ba67af-faed-466e-bb77-59c964463dfb.png)
 
 in Google scholar [Cultural hybridization  game]
 
 The time limit is after 2015, and there are a lot of search results with high relevance
 
-![image-20230309004349225](C:\Users\52624\AppData\Roaming\Typora\typora-user-images\image-20230309004349225.png)
-
+![image-20230309004349225](https://user-images.githubusercontent.com/119857836/225484707-687e8e48-31dc-4ce9-b082-453b580d5a7a.png)
 
 
 #### Write a 500 word short story using what we learned from crip technoscience to imagine a new space station, one where difference is not erased but embraced. What does the technology look like on ths space station? How is the crew selected? What is valued in this process
