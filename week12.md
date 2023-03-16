@@ -60,4 +60,5 @@ As the years passed, the space station continued to grow and evolve, becoming a 
 In the end, the space station became a symbol of hope and possibility, a testament to the power of crip technoscience to bring people together and create a better future for all. The crew members returned to Earth, hailed as heroes and ambassadors for a new era of inclusivity and accessibility. And the space station remained, orbiting the Earth, a shining example of what could be achieved when difference was embraced rather than erased.
 
 [1]Grados, C. G. (2020). Crip Times: Disability, Globalization, and Resistance: Autor: Robert McRuer. Páginas: 283. Editorial: New York University Press (NYU), 2018. Ciudad: New York. Papeles del CEIC, International Journal on Collective Identity Research, (2), 10.
+
 [2]McRuer, R. (2018). Crip times: Disability, globalization, and resistance (Vol. 1). NYU Press.
