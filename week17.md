@@ -7,3 +7,11 @@ First of all, I think the development of the Internet and technology is an irrev
 In low technology and the Internet, what we can do is reduce energy consumption reasonably and build green IT. The Internet and high-tech power are potentially negative effects. The environmental and energy consumption is indeed a concern. But the solution to this problem should not be banning the use of the Internet or banning technological development. What we should do is, one, use renewable energy to power data centers or design more energy-efficient equipment, and two, not choose IT as productivity when alternatives can be used. Low technology does bring benefits to people in some areas. But we cannot blindly support low technology and oppose the Internet. This is a practice that is not conducive to the development of science and technology and human progress.
 
 From the perspective of artists and designers, whether to choose low-tech or high-tech to create is indeed a topic worth thinking about. With the continuous development of technology, artists and designers also want to use new technologies to assist art creation and design. From this, many majors such as computer art, human-computer interaction, and experience design have been derived. As an artist, you can reflect on whether you must use new technologies to achieve the artistic effect you want to present. It is incorrect for artists to blindly cater to technological development without considering cost and resources, and to inappropriately apply high technology in artistic creation.
+
+[1] Colin, C., & Martin, A. (2022). The user experience of low-techs: from user problems to design principles. Journal of User Experience.
+
+[2] Cook, G., Lee, J., Tsai, T., Kong, A., Deans, J., Johnson, B., & Jardim, E. (2017). Clicking clean: who is winning the race to build a green internet. Greenpeace Inc., Washington, DC, 5.
+
+[3] Abrassart, C., Jarrige, F., & Bourg, D. (2020). Introduction: Low-Tech et enjeux écologiques–quels potentiels pour affronter les crises?. La Pensée écologique, (1), 1-1.
+
+[4] Martin, A., Gaultier, A., & Colin, C. (2022, July). Mapping the low-tech concept: guiding design towards sustainable technologies. In 56ème Congrès de la SELF, Vulnérabilités et risques émergents: penser et agir ensemble pour transformer durablement.
